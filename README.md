@@ -23,8 +23,8 @@ This project is a full-stack e-commerce platform that allows users to search for
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-chatbot.git
-cd ecommerce-chatbot
+git clone https://github.com/Rushiamale/Ecommerce-Website.git
+cd Ecommerce-Website
 ```
 
 ### 2. Install dependencies
@@ -32,7 +32,7 @@ cd ecommerce-chatbot
 #### Frontend (Client)
 1. Navigate to the `client` directory:
    ```bash
-   cd client
+   cd frontend
    ```
 2. Install the frontend dependencies:
    ```bash
@@ -54,7 +54,7 @@ cd ecommerce-chatbot
 #### Start the Backend:
 1. Navigate to the `server` folder and run:
    ```bash
-   npm start
+   node server.js
    ```
 
    The server will be running on `http://localhost:5000`.
@@ -94,10 +94,5 @@ cd ecommerce-chatbot
 - **Product Detail Page**: Displays detailed information of a specific product.
 - **Chat Page**: Allows users to interact with the chatbot for queries.
 
-## Future Enhancements
 
-- **User Authentication**: Implement user login and registration.
-- **Order Management**: Add a system to manage and track orders.
-- **Admin Panel**: Create an admin panel for managing products and orders.
-- **Advanced Chatbot**: Improve the chatbot with natural language processing (NLP) for more accurate responses.
 
