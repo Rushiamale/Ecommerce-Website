@@ -1,4 +1,3 @@
-Here’s a **README.md** file for your full-stack project based on the provided `App.js` and `server.js` code:
 
 ---
 
